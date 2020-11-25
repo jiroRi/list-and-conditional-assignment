@@ -1,3 +1,8 @@
+# To Learn:
+
+🔖- How to maintain the colors for each character, not just randomize everything every changes.
+🔖- How to deal with special characters(especially spaces).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
