@@ -1,6 +1,6 @@
 # To Learn:
 
-🔖- How to maintain the colors for each character, not just randomize everything every changes.
+🔖- How to maintain the colors for each character, not just randomize everything every changes.\
 🔖- How to deal with special characters(especially spaces).
 
 # Getting Started with Create React App
