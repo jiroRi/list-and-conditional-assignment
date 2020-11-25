@@ -44,7 +44,7 @@ const CharComponent = (props) => {
 
     return (
         <div style={style}>
-            <p style={letter}><b>{props.character}</b></p>
+            <p style={letter} onClick={props.click}><b>{props.character}</b></p>
         </div>
     );
 }
